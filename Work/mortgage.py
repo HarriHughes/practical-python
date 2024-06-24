@@ -1,4 +1,6 @@
 # mortgage.py
+# Exercise 1.7
+
 principal = 50000
 rate = 0.02
 payment = 1234
@@ -9,4 +11,3 @@ while principal > 0:
     totalPaid = totalPaid+ payment
 
     print('total Paid', totalPaid)
-# Exercise 1.7
